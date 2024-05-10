@@ -1,0 +1,19 @@
+GET http://localhost:3000/api/users
+Accept: application/json
+
+###
+
+GET http://localhost:3000/api/users
+Accept: application/json
+
+<> 2022-11-28T120903.404.html
+
+###
+
+GET http://localhost:3000/api/users
+Accept: application/json
+
+<> 2022-11-28T120748.404.html
+
+###
+
